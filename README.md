@@ -1,3 +1,5 @@
-# Basic Node and Express
-
-This is the boilerplate code for the Basic Node and Express Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/
+# Course from FreeCodeCamp
+Basic Node and Express. <br />
+<a href="https://www.freecodecamp.org/learn/back-end-development-and-apis#managing-packages-with-npm">
+  You can find it here.
+</a>
